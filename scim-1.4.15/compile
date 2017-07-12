@@ -1,6 +1,5 @@
 #! /bin/sh
 # Wrapper for compilers which do not understand '-c -o'.
-
 scriptversion=2012-10-14.11; # UTC
 
 # Copyright (C) 1999-2013 Free Software Foundation, Inc.
