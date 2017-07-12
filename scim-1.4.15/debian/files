@@ -1,0 +1,10 @@
+scim_1.4.15-3_i386.deb utils optional
+libscim8c2a_1.4.15-3_i386.deb libs optional
+libscim-dev_1.4.15-3_i386.deb libdevel optional
+scim-gtk-immodule_1.4.15-3_i386.deb utils optional
+scim-qt-immodule_1.4.15-3_i386.deb utils optional
+scim-clutter-immodule_1.4.15-3_i386.deb utils optional
+scim-im-agent_1.4.15-3_i386.deb utils optional
+scim-modules-socket_1.4.15-3_i386.deb utils optional
+scim-dev_1.4.15-3_all.deb devel optional
+scim-dev-doc_1.4.15-3_all.deb doc optional

@@ -1,0 +1,21 @@
+Package: scim-im-agent
+Source: scim
+Version: 1.4.15-3
+Architecture: i386
+Maintainer: Rolf Leggewie <foss@rolf.leggewie.biz>
+Installed-Size: 234
+Depends: scim-modules-socket (= 1.4.15-3), libc6 (>= 2.15), libgcc1 (>= 1:4.1.1), libscim8c2a (>= 1.4), libstdc++6 (>= 4.6)
+Enhances: scim
+Conflicts: scim-bridge-agent
+Provides: scim-bridge-agent
+Section: utils
+Priority: optional
+Homepage: https://sourceforge.net/projects/scim/
+Description: IM agent for SCIM platform
+ SCIM (Smart Common Input Method) is an input method (IM) platform.
+ .
+ This package provides the IM agent for SCIM. SCIM provides various IM modules
+ for Gtk/Qt/clutter program. The IM modules connumicate with SCIM through the
+ IM agent.
+ .
+ For more information about SCIM, please see the description of scim package.

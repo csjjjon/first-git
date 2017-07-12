@@ -1,0 +1,7 @@
+d331a0480f09186f35fb6265a05ecc11  usr/lib/i386-linux-gnu/libscim-1.0.so.8.2.6
+2b7ea805a567aa26f4d255c65d7355aa  usr/lib/i386-linux-gnu/libscim-gtkutils-1.0.so.8.2.6
+32c837c2e50de90745120063980ef3d0  usr/lib/i386-linux-gnu/libscim-x11utils-1.0.so.8.2.6
+8ad3d29198d5282d926f8f0d402930e0  usr/share/doc/libscim8c2a/changelog.Debian.gz
+0986c42d1643d681f5e4f2c99fc29389  usr/share/doc/libscim8c2a/changelog.gz
+a3be960964f921d6769e3e30944c7640  usr/share/doc/libscim8c2a/copyright
+e5a20a7d2ee6851e3d4bd6c74aa9b3ba  usr/share/lintian/overrides/libscim8c2a

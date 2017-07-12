@@ -1,0 +1,22 @@
+Package: scim-modules-socket
+Source: scim
+Version: 1.4.15-3
+Architecture: i386
+Maintainer: Rolf Leggewie <foss@rolf.leggewie.biz>
+Installed-Size: 240
+Depends: libc6 (>= 2.4), libgcc1 (>= 1:4.1.1), libscim8c2a (>= 1.4), libstdc++6 (>= 4.9)
+Enhances: scim
+Section: utils
+Priority: optional
+Multi-Arch: same
+Homepage: https://sourceforge.net/projects/scim/
+Description: socket modules for SCIM platform
+ SCIM (Smart Common Input Method) is an input method (IM) platform.
+ .
+ This package provides the socket modules for SCIM.  SCIM can use a local or
+ inet socket as the front end and connect to the configuration and IM engine
+ modules.  Then other computers and/or environments can share these input
+ methods by connecting to the socket with socket IM engine module and socket
+ configure module.
+ .
+ For more information about SCIM, please see the description of scim package.

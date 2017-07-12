@@ -1,0 +1,17 @@
+Package: scim-dev
+Source: scim
+Version: 1.4.15-3
+Architecture: all
+Maintainer: Rolf Leggewie <foss@rolf.leggewie.biz>
+Installed-Size: 46
+Depends: libscim-dev (>= 1.4.15-3), scim-dev-doc (= 1.4.15-3)
+Section: devel
+Priority: optional
+Homepage: https://sourceforge.net/projects/scim/
+Description: development files for SCIM platform
+ SCIM (Smart Common Input Method) is an input method (IM) platform.
+ .
+ This package is a metapackage to provide development libraries and
+ documentations for SCIM platform.
+ .
+ For more information about SCIM, please see the description of scim package.
